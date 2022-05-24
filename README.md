@@ -5,9 +5,9 @@
 - [Application Security Groups](https://github.com/earkevin11/Application-Security-Groups)
 - [Azure Application Gateway Service](https://github.com/earkevin11/Azure-Application-Gateway-Service)
 - [Azure Front Door](https://github.com/earkevin11/Azure-Front-Door)
-- [Virtual Network Peering]
-- [Point to Site VPN Connection]
-- [Site-to-Site VPN Connection]
-- [User Defined Routes]
+- [Virtual Network Peering](https://github.com/earkevin11/Virtual-Network-Peering/edit/main/README.md)
+- [Point to Site VPN Connection](https://github.com/earkevin11/Point-to-Site-VPN)
+- [Site-to-Site VPN Connection](https://github.com/earkevin11/Site-to-Site-VPN)
+- [User Defined Routes](https://github.com/earkevin11/User-Defined-Routes)
 - [Azure Bastion Service]
 - [Azure Firewall Service]
