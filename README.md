@@ -13,3 +13,4 @@
 - [Azure Firewall Service](https://github.com/earkevin11/Azure-Firewall-Service)
 - [Hub-Spoke](https://github.com/earkevin11/Hub-Spoke-Architecture)
 - [Microsoft Antimalware for Virtual Machines](https://github.com/earkevin11/Antimalware-extension)
+- [Update Management](https://github.com/earkevin11/Update-Management)
