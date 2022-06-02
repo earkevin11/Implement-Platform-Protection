@@ -12,3 +12,4 @@
 - [Azure Bastion Service](https://github.com/earkevin11/Azure-Bastion-Service)
 - [Azure Firewall Service](https://github.com/earkevin11/Azure-Firewall-Service)
 - [Hub-Spoke](https://github.com/earkevin11/Hub-Spoke-Architecture)
+- [Microsoft Antimalware for Virtual Machines](https://github.com/earkevin11/Antimalware-extension)
