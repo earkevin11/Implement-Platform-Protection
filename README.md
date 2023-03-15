@@ -17,5 +17,5 @@
 - [Hub-Spoke](https://github.com/earkevin11/Hub-Spoke-Architecture)
 - [Microsoft Antimalware for Virtual Machines](https://github.com/earkevin11/Antimalware-extension)
 - [Update Management](https://github.com/earkevin11/Update-Management)
-- [Azure Disk Encryption for Windows VMs and Microsoft Defender](https://github.com/earkevin11/Deploying-Azure-Disk-Encryption-for-Windows-VMs)
+- [Azure Disk Encryption for Windows VMs and Windows Defender](https://github.com/earkevin11/Deploying-Azure-Disk-Encryption-for-Windows-VMs)
 - [Containers](https://github.com/earkevin11/Containers)
